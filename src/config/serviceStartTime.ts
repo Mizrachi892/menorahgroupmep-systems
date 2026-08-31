@@ -1,0 +1,1 @@
+export const serviceStartTime = new Date();
